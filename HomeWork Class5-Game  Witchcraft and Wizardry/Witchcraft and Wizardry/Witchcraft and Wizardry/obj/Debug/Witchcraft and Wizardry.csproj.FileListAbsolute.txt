@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\bin\Debug\Witchcraft and Wizardry.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\bin\Debug\Witchcraft and Wizardry.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\bin\Debug\Witchcraft and Wizardry.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\bin\Debug\Library.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\bin\Debug\Library.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\obj\Debug\Witchcraft and Wizardry.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\obj\Debug\Witchcraft and Wizardry.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\obj\Debug\Witchcraft and Wizardry.csproj.CopyComplete
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\obj\Debug\Witchcraft and Wizardry.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Witchcraft and Wizardry\obj\Debug\Witchcraft and Wizardry.pdb

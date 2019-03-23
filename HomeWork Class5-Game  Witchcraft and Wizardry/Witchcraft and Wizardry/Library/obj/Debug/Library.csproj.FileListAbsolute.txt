@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\bin\Debug\Library.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\bin\Debug\Library.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\obj\Debug\Library.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\05\HomeWork Class5-Game  Witchcraft and Wizardry\Witchcraft and Wizardry\Library\obj\Debug\Library.pdb
