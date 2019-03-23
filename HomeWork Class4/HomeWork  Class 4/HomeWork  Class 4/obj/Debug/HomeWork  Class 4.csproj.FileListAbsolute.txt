@@ -1,0 +1,7 @@
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\bin\Debug\HomeWork  Class 4.exe.config
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\bin\Debug\HomeWork  Class 4.exe
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\bin\Debug\HomeWork  Class 4.pdb
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\obj\Debug\HomeWork  Class 4.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\obj\Debug\HomeWork  Class 4.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\obj\Debug\HomeWork  Class 4.exe
+C:\Users\Freeware Sys\Desktop\HomeWork Class4\HomeWork  Class 4\HomeWork  Class 4\obj\Debug\HomeWork  Class 4.pdb
