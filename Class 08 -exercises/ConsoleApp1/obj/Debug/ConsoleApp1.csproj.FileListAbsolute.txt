@@ -1,0 +1,7 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

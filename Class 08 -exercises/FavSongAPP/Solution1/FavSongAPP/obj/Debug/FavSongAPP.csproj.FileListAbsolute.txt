@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\bin\Debug\FavSongAPP.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\bin\Debug\FavSongAPP.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\bin\Debug\FavSongAPP.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\bin\Debug\Models.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\bin\Debug\Models.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\obj\Debug\FavSongAPP.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\obj\Debug\FavSongAPP.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\obj\Debug\FavSongAPP.csproj.CopyComplete
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\obj\Debug\FavSongAPP.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\Solution1\FavSongAPP\Solution1\FavSongAPP\obj\Debug\FavSongAPP.pdb
