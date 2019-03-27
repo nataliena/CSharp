@@ -1,0 +1,10 @@
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csprojAssemblyReference.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CoreCompileInputs.cache
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe.config
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\bin\Debug\StudentsApp.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\bin\Debug\StudentsApp.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\bin\Debug\Models.dll
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\bin\Debug\Models.pdb
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\obj\Debug\StudentsApp.csproj.CopyComplete
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\obj\Debug\StudentsApp.exe
+C:\Users\Freeware Sys\Desktop\Seavus predavanja\C#\08\HomeWork Class 08\StudentsApp\StudentsApp\obj\Debug\StudentsApp.pdb
