@@ -1,0 +1,10 @@
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\bin\Debug\StaticClass.exe.config
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\bin\Debug\StaticClass.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\bin\Debug\StaticClass.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\bin\Debug\ClassLibrary2.dll
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\bin\Debug\ClassLibrary2.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\obj\Debug\StaticClass.csprojAssemblyReference.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\obj\Debug\StaticClass.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\obj\Debug\StaticClass.csproj.CopyComplete
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\obj\Debug\StaticClass.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\StaticClass\obj\Debug\StaticClass.pdb
