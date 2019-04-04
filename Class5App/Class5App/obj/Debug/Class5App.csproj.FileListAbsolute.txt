@@ -1,0 +1,7 @@
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\bin\Debug\Class5App.exe.config
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\bin\Debug\Class5App.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\bin\Debug\Class5App.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\obj\Debug\Class5App.csprojAssemblyReference.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\obj\Debug\Class5App.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\obj\Debug\Class5App.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\05\Class5App\Class5App\obj\Debug\Class5App.pdb
