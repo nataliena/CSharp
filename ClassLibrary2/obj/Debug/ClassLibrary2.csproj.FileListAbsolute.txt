@@ -1,5 +1,0 @@
-C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
-C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
-C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
-C:\Users\Natasha.Andova\Desktop\C# advanced\03\Solution1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
