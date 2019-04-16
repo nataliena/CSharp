@@ -1,0 +1,10 @@
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\bin\Debug\Class09.exe.config
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\bin\Debug\Class09.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\bin\Debug\Class09.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\bin\Debug\Models.dll
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\bin\Debug\Models.pdb
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\obj\Debug\Class09.csprojAssemblyReference.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\obj\Debug\Class09.csproj.CoreCompileInputs.cache
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\obj\Debug\Class09.csproj.CopyComplete
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\obj\Debug\Class09.exe
+C:\Users\Natasha.Andova\Desktop\C# advanced\09\Solution1\Class09\obj\Debug\Class09.pdb
